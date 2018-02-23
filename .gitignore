@@ -1,0 +1,13 @@
+/.vs
+/bin
+/temp
+
+*.log
+*.tlog
+*.dll
+*.exe
+*.exp
+*.ilk
+*.lib
+*.pdb
+*.user
