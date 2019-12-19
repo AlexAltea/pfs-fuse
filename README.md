@@ -1,7 +1,7 @@
 PFS-FUSE
 ========
 
-Disclaimer: This hasn't been released yet and will be archived for the time being.
+**Disclaimer: This hasn't been released yet and will be archived for the time being.**
 
 FUSE driver for the PlayStation File System (Windows-only!).
 
